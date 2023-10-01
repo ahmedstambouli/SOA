@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <cv>
+    <informations>
+        <nom>STANBOULI</nom>
+        <prenom>Ahmed</prenom>
+        <addresse> Ghar el meleh bizert</addresse>
+        <email>ahmed.stambouli98@gmail.com</email>
+        <telephone>53804490</telephone>
+        <linkedin>@Ahmed STANBOULI</linkedin>
+	<github>https://github.com/ahmedstambouli</github>
+    </informations>
+    
+    <competencestechniques>
+	HTML  CSS  BootsTrap  ANGULAR
+	JAVASCRIPT  JQUERY  AJAX  JSON  TYPESCRIPTE Python 
+	PHP  SQL  LARAVEL  NEST JS  SPRING BOOT
+	JAVA   JAVAFX  C  
+	JEE  ASP.NET CORE
+	ANDROID  FLUTTER 
+	SCRUM  UML  
+		
+    </competencestechniques>
+    
+    <langues>
+  	Arabe Français Anglais
+    </langues>
+    
+    <Profile>
+        <description>
+	Je suis technicien supérieur en informatique , diplômée appliquée en développement des systèmes d'information diplômée de l'ISET de Bizerte en juin 2022 et je suis également 	étudiante à l'Université TEK-UP.
+	</description>
+    </Profile>
+    <Stages>
+        <StagePFE>
+            <date>février 2022-juin 2022</date>
+            <entreprise>Uptech Avenue Hedi Karray –Centre Urbain Nord</entreprise>
+            <description>février-présent 
+		Développer une application de système de gestion du workflow et des ressources humaines et j'ai utilisé  NestJs et Angular</description>
+        </StagePFE>
+        <Développeur>
+            <date>août 2021</date>
+            <entreprise>WIC MIC GROUP</entreprise>
+            <description>Dans le but de développer une application web représenté par la gestion des stagiaire j'ai utilisé : language C# et Framework Asp.net Core</description>
+        </Développeur>
+        <Stagiaire>
+            <date>janv. 2020</date>
+            <entreprise>Bureau de Poste Ghar El Meleh, Bizerte, Tunisie</entreprise>
+            <description>Stage d'initiation</description>
+        </Stagiaire>
+    </Stages>
+    
+    <Formation>
+        <baccalaureat>
+            <annee>2019</annee>
+            <diplome>Baccalauréat informatique</diplome>
+            <etablissement>Lycée Mohamed Ali Annabi Ras Jebel</etablissement>
+        </baccalaureat>
+        <licence>
+            <annee>2022</annee>
+            <diplome>Licence appliquée en technologie de l'informatique</diplome>
+            <etablissement>ISET bizert</etablissement>
+        </licence>
+    </Formation>
+ </cv>
